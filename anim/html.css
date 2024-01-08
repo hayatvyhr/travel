@@ -336,4 +336,6 @@ a{
     font-weight: bold;
     color: #555;
   }
-  
+  .hero-text h1 {
+     font-size :clamp(4.8rem, 20vw, 5.6rem);
+  }
