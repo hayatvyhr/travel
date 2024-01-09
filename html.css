@@ -200,19 +200,60 @@ section {
 
 
 @media screen and (max-width: 768px) {
+    .logo {
+        margin-left: 0;
+    }
+
     header {
-        flex-direction: column; /* Stack items vertically on smaller screens */
+        flex-direction: column;
         text-align: center;
     }
+
     header h1 {
         margin-left: 0;
     }
+
     .links {
         margin-left: 0;
         margin-top: 1rem;
+        justify-content: center;
+    }
+
+    .parent {
+        grid-template-columns: 1fr; /* Change to a single column layout */
+        grid-row-gap: 1rem; /* Add some space between grid items */
+    }
+
+    .div1 {
+        margin-left: 0;
+    }
+
+    .div2 {
+        margin-top: 1rem;
+    }
+
+    .title2 {
+        margin-left: 0;
+    }
+
+    .par {
+        grid-template-columns: 1fr; /* Change to a single column layout */
+    }
+
+    .b2 form {
+        width: 100%; /* Make the form width 100% */
+        margin-left: 0;
+    }
+
+    .ik {
+        margin-left: 0;
+    }
+
+    .card-container {
+        margin-left: 0;
+        justify-content: center;
     }
 }
-
 
 a{
 
