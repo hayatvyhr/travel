@@ -14,7 +14,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgb(48, 160, 132);
+  background: #41A4A8;
   width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
 }
 
@@ -171,7 +171,7 @@ section {
 }
 .ht {
   letter-spacing: 2px;
-   color: #FFD589;
+   color: #41A4A8;
    font-size: 27px;
 }
 .parag {
