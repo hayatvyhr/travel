@@ -1,9 +1,9 @@
 ## home 
-![image](https://github.com/user-attachments/assets/bae18e2a-e613-429b-ac53-948a6af6439f)
+![image](https://github.com/user-attachments/assets/c2ee1859-1c29-424f-93a9-4dcf0477602d)
 
 ## Plans
-![image](https://github.com/user-attachments/assets/12aff500-751f-4b7d-a2df-6922ccdccd13)
+![image](https://github.com/user-attachments/assets/f4896eca-176d-4a6e-81ba-5931574d6c6d)
 ## Contacts
 
 
-![image](https://github.com/user-attachments/assets/7326fdf2-f439-4d88-aba6-5e83cabee90a)
+![image](https://github.com/user-attachments/assets/aefd5f9e-2013-4103-8c8b-cd7af7e269c0)
