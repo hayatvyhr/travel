@@ -1,6 +1,8 @@
 
 body {
-background: #E1F8D4;
+   
+  background: rgb(195,171,34);
+  background: linear-gradient(0deg, rgba(195,171,34,1) 0%, rgba(153,146,95,1) 28%, rgba(185,183,166,1) 32%, rgba(45,81,253,1) 100%);
     overflow: hidden;
     margin: 0;
     
@@ -14,14 +16,19 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #41A4A8;
-  width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
+/* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);  width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
 }
 
 section {
   margin-bottom: 2rem;
   margin-top: 3rem;
-  padding-top: 7rem;
+  padding-top: 5rem;
 }
 
 
@@ -66,7 +73,7 @@ section {
   .links li a{
     font-size: 20px;
     text-decoration: none;
-    color: #E1F8D4;
+    color: #B9B9B9;
   }
   
   .links li a:hover {
@@ -82,8 +89,10 @@ section {
     }
     
     .div1 {
+      margin-top: 50px;
       margin-left: 40px;
       grid-area: 1 / 1 / 2 / 2;
+      padding: 40px 15px 15px ;
       animation: animate 7s infinite;
     }
     
@@ -171,7 +180,7 @@ section {
 }
 .ht {
   letter-spacing: 2px;
-   color : #41A4A8;
+   color: #B9B9B9;
    font-size: 27px;
 }
 .parag {
@@ -208,7 +217,7 @@ a{
 .title2 {
   font-size: 35px;
   letter-spacing: 2px;
-  color: #41A4A8;
+  color: #B9B9B9;
   font-weight: 900;
   font-variant: small-caps;
   margin-left: 50rem;
